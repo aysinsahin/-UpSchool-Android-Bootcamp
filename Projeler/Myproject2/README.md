@@ -10,15 +10,15 @@
 
 ## Images LearnAtHome
 
-![This is a alt text.](/image/learnathome.png "This is a learnathome image.")
+![This is a alt text.](image/learnathome.png "This is a learnathome image.")
 
 
 ## Images LestStart
 
-![This is a alt text.](/image/letsstart.png "This is a LestStart image.")
+![This is a alt text.](image/letsstart.png "This is a LestStart image.")
 
 
 
 ## Images Lastpage
 
-![This is a alt text.](/image/lastpage.png "This is a Lastpage image.")
+![This is a alt text.](image/lastpage.png "This is a Lastpage image.")
